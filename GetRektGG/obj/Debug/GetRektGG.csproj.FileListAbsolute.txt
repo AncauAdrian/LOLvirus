@@ -1,0 +1,6 @@
+E:\C#\GetRektGG\GetRektGG\bin\Debug\GetRektGG.exe.config
+E:\C#\GetRektGG\GetRektGG\bin\Debug\GetRektGG.exe
+E:\C#\GetRektGG\GetRektGG\bin\Debug\GetRektGG.pdb
+E:\C#\GetRektGG\GetRektGG\obj\Debug\GetRektGG.csprojResolveAssemblyReference.cache
+E:\C#\GetRektGG\GetRektGG\obj\Debug\GetRektGG.exe
+E:\C#\GetRektGG\GetRektGG\obj\Debug\GetRektGG.pdb
